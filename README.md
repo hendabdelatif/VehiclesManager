@@ -4,7 +4,7 @@ Sample of code using MVVM with Kotlin, Android Architecture Components, Dagger 2
 For Developers who are interested to learn new ways of developing an elegant and clean code with kotlin.
 
 The project will be based on JSONPlaceholder API in order to display a list of vehicles.
-The application will try to get vehicles from the local database. If there is no vehicle in it, it will retrieve them from JSONPlaceholder API, then will save them in database.
+The application will try to get vehicles from the local database. If there is no vehicle in it, it will retrieve them from JSONPlaceholder API, then will save them in database. You can display the location of each vehicle on the map when click on the item.
 
 The following are included inside:
 
