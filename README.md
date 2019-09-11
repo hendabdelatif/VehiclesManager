@@ -19,12 +19,12 @@ using dependency injection to let Retrofit services be injected in the ViewModel
 
 Android Architecture Components: 
 
-LiveData: building data objects that notify views when the underlying database changes.
+-LiveData: building data objects that notify views when the underlying database changes.
 
-ViewModel: storing UI-related data that isn't destroyed on app rotations.
+-ViewModel: storing UI-related data that isn't destroyed on app rotations.
 
-Layout, DataBinding and BindingAdapters
+-Layout, DataBinding and BindingAdapters
 
-Room: is a SQLite object mapping library
+-Room: is a SQLite object mapping library
 - if there are vehicles in the database, they will be shown
 - if not, they will be retreived from API and stored the result in database
