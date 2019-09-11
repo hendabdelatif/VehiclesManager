@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vehicles Manager</string>
+
+    <string name="retry">Retry</string>
+    <string name="vehicle_error">An error occurred while loading the vehicles</string>
+
+    <string name="vehicle_id">Vehicle ID:</string>
+    <string name="fleet_type">Fleet Type:</string>
+    <string name="map_view">Map View</string>
+    <string name="available_vehicles">Available Vehicles</string>
+</resources>
